@@ -1,0 +1,58 @@
+# Dependencias
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Producción
+/build
+/dist
+
+# Variables de entorno
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs/
+*.log
+
+# Archivos temporales
+*.tmp
+*.swp
+*.swo
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Cobertura de pruebas
+coverage/
+.nyc_output/
+
+# Archivos de caché
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+
+# Paquetes comprimidos
+*.tgz
+*.tar.gz
+
+# Configuraciones específicas
+.eslintrc
+.prettierrc
+.stylelintrc
+
+# Archivos de subida (si aplica)
+uploads/
+public/uploads/
