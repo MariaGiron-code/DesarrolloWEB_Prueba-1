@@ -1,6 +1,5 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import logo from '/logo.png'
 import './App.css'
 
 function App() {
@@ -10,6 +9,7 @@ function App() {
     <div className="min-h-screen bg-gray-100 flex items-center justify-center">
       <div className="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden">
         <div className="p-8">
+          <img src={logo} alt="Logo" className="w-16 h-16 mx-auto mb-4" />
           <div className="uppercase tracking-wide text-sm text-indigo-500 font-semibold">
             Vite + React + Tailwind
           </div>
