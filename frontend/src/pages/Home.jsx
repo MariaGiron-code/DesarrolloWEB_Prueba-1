@@ -12,7 +12,6 @@ const Home = () => {
       navigate(`/search?q=${encodeURIComponent(searchQuery)}`);
     }
   };
-
   const features = [
     {
       icon: BarChart3,
