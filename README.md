@@ -1,1 +1,0 @@
-Repositorio del proyecto práctico para la Prueba Complementaria #1 de la asignatura Desarrollo de Aplicaciones Web (EPN, 2025-B). Incluye la planificación SCRUM, desarrollo de funcionalidades con consumo de APIs RESTful, despliegue en la nube (IaaS, PaaS o SaaS), pruebas de rendimiento con PageSpeed/Lighthouse y defensa final del sistema web.
